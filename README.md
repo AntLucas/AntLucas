@@ -2,8 +2,7 @@
 <li>🔭 I’m currently studying computer science at UFABC</li>
 <li>🌱 I’m currently studying to be a full stack developer</li>
 
-https://github-readme-stats.vercel.app/api?username=AntLucas
-https://github.com/AntLucas/github-readme-stats
+[![AntLucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntLucas)](https://github.com/AntLucas/github-readme-stats)
 <!--
 **AntLucas/AntLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

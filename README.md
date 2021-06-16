@@ -3,7 +3,7 @@
 <li>🌱 I’m currently studying to be a full stack developer</li>
 <br>
 
-[![AntLucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntLucas&theme=radical&show_icons=true)
+![AntLucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntLucas&theme=radical&show_icons=true)
 <br>
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntLucas&theme=radical&show_icons=true)](https://github.com/AntLucas/github-readme-stats)

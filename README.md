@@ -1,7 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently studying computer science at UFABC
-
-🌱 I’m currently studying to be a full stack developer
+<li>🔭 I’m currently studying computer science at UFABC</li>
+<li>🌱 I’m currently studying to be a full stack developer</li>
 <!--
 **AntLucas/AntLucas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

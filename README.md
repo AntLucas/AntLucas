@@ -5,7 +5,8 @@
 
 [![AntLucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntLucas&theme=radical&show_icons=true)
 <br>
-[![AntLucas's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/AntLucas/github-readme-stats)
+[![willianrod's AntLucas stats](https://github-readme-stats.vercel.app/api/AntLucas?username=willianrod)](https://github.com/AntLucas/github-readme-stats)
+
 
 
 <!--

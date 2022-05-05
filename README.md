@@ -1,6 +1,6 @@
 
 <li>🔭 I’m currently studying computer science at UFABC</li>
-<li>🌱 I’m currently studying to be a full stack developer</li>
+<li>🌱 Software Engineer at PagBank PagSeguro</li>
 <br>
 
 ![AntLucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntLucas&theme=radical&show_icons=true)
